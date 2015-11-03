@@ -1,5 +1,5 @@
-A spacing between corn plants dataset.
-======================================
+A spacing between corn plants dataset
+=====================================
 
 The adoption of uniform spacing between plants is one of the actions to achieve good grain production indices.
 
@@ -10,8 +10,8 @@ Paper for citation
 
 Available: http://link.springer.com/chapter/10.1007/978-3-319-25751-8_27
 
-Contact information:
-====================
+Contact information
+===================
 e-mail: andersonbrilhador@gmail.com
 
 
