@@ -12,6 +12,7 @@ Available: http://link.springer.com/chapter/10.1007/978-3-319-25751-8_27
 
 Contact information
 ===================
-e-mail: andersonbrilhador@gmail.com
+
+E-mail: andersonbrilhador@gmail.com
 
 
