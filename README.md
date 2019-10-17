@@ -15,6 +15,21 @@ The dataset consists of 188 corn planting images distributed in two classes: til
 
 Available [here](http://link.springer.com/chapter/10.1007/978-3-319-25751-8_27).
 
+Bibtex:
+```
+@InProceedings{brilhador2015,
+author="Brilhador, Anderson and Serrarens, Daniel A. and Lopes, Fabr{\'i}cio M.",
+editor="Pardo, Alvaro and Kittler, Josef",
+title="A Computer Vision Approach for Automatic Measurement of the Inter-plant Spacing",
+booktitle="Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications",
+year="2015",
+publisher="Springer International Publishing",
+address="Cham",
+pages="219--227",
+isbn="978-3-319-25751-8"
+}
+```
+
 # Use
 
 All data and code is subject to copyright and may only be used for non-commercial research. In case of use please cite our publication.
